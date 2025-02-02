@@ -1,0 +1,590 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ckeditor.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ckeditor.fields",
+        "description": "ckeditor.fields",
+        "detail": "ckeditor.fields",
+        "documentation": {}
+    },
+    {
+        "label": "RichTextField",
+        "importPath": "ckeditor.fields",
+        "description": "ckeditor.fields",
+        "isExtraImport": true,
+        "detail": "ckeditor.fields",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Translator",
+        "importPath": "googletrans",
+        "description": "googletrans",
+        "isExtraImport": true,
+        "detail": "googletrans",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "django.core.cache",
+        "description": "django.core.cache",
+        "isExtraImport": true,
+        "detail": "django.core.cache",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.asgi",
+        "description": "faq_project.faq_project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "faq_project.faq_project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-9!05rn@f&1d!+5#4kjv^eopq(m=1npqi7q$_&r^*otf&)j#*)w'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-9!05rn@f&1d!+5#4kjv^eopq(m=1npqi7q$_&r^*otf&)j#*)w'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',\n    'ckeditor'\n]",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'faq_project.urls'",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'faq_project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'faq_project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nCACHES = {",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nCACHES = {\n    \"default\": {\n        \"BACKEND\": \"django_redis.cache.RedisCache\",\n        \"LOCATION\": \"redis://127.0.0.1:6379/1\",",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CACHES",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "CACHES = {\n    \"default\": {\n        \"BACKEND\": \"django_redis.cache.RedisCache\",\n        \"LOCATION\": \"redis://127.0.0.1:6379/1\",\n        \"OPTIONS\": {\n            \"CLIENT_CLASS\": \"django_redis.client.DefaultClient\",\n        }\n    }\n}\n# Password validation",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCKEDITOR_CONFIGS = {",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCKEDITOR_CONFIGS = {\n    'default': {",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n        'height': 300,\n        'width': '90%',\n    },",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n        'height': 300,\n        'width': '90%',\n    },\n}\nCKEDITOR_BASEPATH = \"/static/ckeditor/ckeditor/\"\nCKEDITOR_UPLOAD_PATH = \"uploads/\"",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CKEDITOR_CONFIGS",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "CKEDITOR_CONFIGS = {\n    'default': {\n        'toolbar': 'full',\n        'height': 300,\n        'width': '90%',\n    },\n}\nCKEDITOR_BASEPATH = \"/static/ckeditor/ckeditor/\"\nCKEDITOR_UPLOAD_PATH = \"uploads/\"",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CKEDITOR_BASEPATH",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "CKEDITOR_BASEPATH = \"/static/ckeditor/ckeditor/\"\nCKEDITOR_UPLOAD_PATH = \"uploads/\"",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CKEDITOR_UPLOAD_PATH",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.settings",
+        "description": "faq_project.faq_project.settings",
+        "peekOfCode": "CKEDITOR_UPLOAD_PATH = \"uploads/\"",
+        "detail": "faq_project.faq_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.urls",
+        "description": "faq_project.faq_project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('myapp.urls')),\n    path('ckeditor/', include('ckeditor_uploader.urls')),\n]",
+        "detail": "faq_project.faq_project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "faq_project.faq_project.wsgi",
+        "description": "faq_project.faq_project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "faq_project.faq_project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "faq_project.myapp.migrations.0001_initial",
+        "description": "faq_project.myapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='FAQ',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('question', models.TextField()),",
+        "detail": "faq_project.myapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "faq_project.myapp.migrations.0002_auto_20250201_1134",
+        "description": "faq_project.myapp.migrations.0002_auto_20250201_1134",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('myapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='faq',\n            name='answer_es',\n        ),\n        migrations.RemoveField(",
+        "detail": "faq_project.myapp.migrations.0002_auto_20250201_1134",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "faq_project.myapp.migrations.0003_auto_20250202_1058",
+        "description": "faq_project.myapp.migrations.0003_auto_20250202_1058",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('myapp', '0002_auto_20250201_1134'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='faq',\n            name='id',\n        ),\n        migrations.AddField(",
+        "detail": "faq_project.myapp.migrations.0003_auto_20250202_1058",
+        "documentation": {}
+    },
+    {
+        "label": "FAQAdmin",
+        "kind": 6,
+        "importPath": "faq_project.myapp.admin",
+        "description": "faq_project.myapp.admin",
+        "peekOfCode": "class FAQAdmin(admin.ModelAdmin):\n    list_display = ('qid', 'question', 'answer')\n    readonly_fields = ('qid',)",
+        "detail": "faq_project.myapp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MyappConfig",
+        "kind": 6,
+        "importPath": "faq_project.myapp.apps",
+        "description": "faq_project.myapp.apps",
+        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'",
+        "detail": "faq_project.myapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "FAQ",
+        "kind": 6,
+        "importPath": "faq_project.myapp.models",
+        "description": "faq_project.myapp.models",
+        "peekOfCode": "class FAQ(models.Model):\n    qid = models.AutoField(primary_key=True)\n    question = models.TextField()\n    answer = RichTextField()\n    def get_translation(self, lang):\n        cache_key_question = f\"qfaq_{self.qid}_lang_{lang}\"\n        cache_key_answer = f\"afaq_{self.qid}_lang_{lang}\"\n        cached_translation_question = cache.get(cache_key_question)\n        cached_translation_answer = cache.get(cache_key_answer)\n        if cached_translation_question and cached_translation_answer:",
+        "detail": "faq_project.myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "faq_project.myapp.urls",
+        "description": "faq_project.myapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('faqs/', FAQViewSet, name=\"faq_list\"),\n    path('faqs/<int:pk>/', faq_detail, name=\"faq_detail\"),\n    path('faqs/add/', faq_create, name=\"faq_create\"),\n    path('faqs/<int:pk>/update/', faq_update, name=\"faq_update\"),\n    path('faqs/<int:pk>/delete/', faq_delete, name=\"faq_delete\"),\n]",
+        "detail": "faq_project.myapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "FAQViewSet",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def FAQViewSet(request):\n    lang = request.GET.get('lang', 'en')\n    faqs = [faq.get_translation(lang) for faq in FAQ.objects.all()]\n    return JsonResponse(faqs, safe=False)\ndef faq_list(request):\n    lang = request.GET.get('lang', 'en')\n    faqs = [faq.get_translation(lang) for faq in FAQ.objects.all()]\n    return JsonResponse(faqs, safe=False)\ndef faq_detail(request, pk):\n    faq = get_object_or_404(FAQ, pk=pk)",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_list",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def faq_list(request):\n    lang = request.GET.get('lang', 'en')\n    faqs = [faq.get_translation(lang) for faq in FAQ.objects.all()]\n    return JsonResponse(faqs, safe=False)\ndef faq_detail(request, pk):\n    faq = get_object_or_404(FAQ, pk=pk)\n    lang = request.GET.get('lang', 'en')\n    return JsonResponse(faq.get_translation(lang))\n@csrf_exempt\ndef faq_create(request):",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_detail",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def faq_detail(request, pk):\n    faq = get_object_or_404(FAQ, pk=pk)\n    lang = request.GET.get('lang', 'en')\n    return JsonResponse(faq.get_translation(lang))\n@csrf_exempt\ndef faq_create(request):\n    if request.method == 'POST':\n        data = json.loads(request.body)\n        question = data.get('question')\n        answer = data.get('answer')",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_create",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def faq_create(request):\n    if request.method == 'POST':\n        data = json.loads(request.body)\n        question = data.get('question')\n        answer = data.get('answer')\n        if not question or not answer:\n            return JsonResponse(\n                                {\"error\": \"Both question and answer are required.\"},\n                                status=400\n                                )",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_update",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def faq_update(request, pk):\n    faq = get_object_or_404(FAQ, pk=pk)\n    if request.method == 'PUT':\n        data = json.loads(request.body)\n        faq.question = data.get(\"question\", faq.question)\n        faq.answer = data.get(\"answer\", faq.answer)\n        faq.save()\n        return JsonResponse({\"message\": \"FAQ updated successfully!\"},\n                            status=200)\n@csrf_exempt",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_delete",
+        "kind": 2,
+        "importPath": "faq_project.myapp.views",
+        "description": "faq_project.myapp.views",
+        "peekOfCode": "def faq_delete(request, pk):\n    faq = get_object_or_404(FAQ, pk=pk)\n    if request.method == 'DELETE':\n        faq.delete()\n        return JsonResponse({\"message\": \"FAQ deleted successfully!\"},\n                            status=204)",
+        "detail": "faq_project.myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "faq_project.manage",
+        "description": "faq_project.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'faq_project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "faq_project.manage",
+        "documentation": {}
+    }
+]
